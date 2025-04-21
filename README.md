@@ -1,6 +1,9 @@
 # BankistApp
 Bankist app is an application built using HTML, CSS and JavaScript that simulates an user interface of a bank where users can check their transactions.
 
+## Check out Website!
+https://gabriel-mrodrigues.github.io/BankistApp/
+
 ## Focus
 - Array manipulation
 - Dates
